@@ -2,10 +2,7 @@
 My personal website hosted on AWS and Cloudfront CDN.
 
 ## Screenshot
-![5b9024399e62f566757279](https://user-images.githubusercontent.com/24621701/45114684-8c546100-b145-11e8-91a2-545bd2f0c289.gif)
-
-## Credits
-The original template belongs to [Bootstrap-Stage](https://github.com/Bootstrap-Stage/flatfolio)
+![5b9024399e62f566757279]()
 
 ## License
 
